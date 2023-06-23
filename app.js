@@ -119,7 +119,7 @@ function port(){
     $(".vehicle, .capsule").removeClass("active-t");
     $(".tech-img").attr("src","./assets/technology/image-spaceport-" + techImg + ".jpg");
     $(".tech-p").text(portText);
-    $(".tech-name").text("LAUNCH VEHICLE");
+    $(".tech-name").text("SPACEPORT");
     
 }
 
@@ -129,7 +129,7 @@ function capsule(){
     $(".vehicle, .port").removeClass("active-t");
     $(".tech-img").attr("src","./assets/technology/image-space-capsule-" + techImg + ".jpg");
     $(".tech-p").text(capsuleText);
-    $(".tech-name").text("LAUNCH VEHICLE");
+    $(".tech-name").text("SPACE CAPSULE");
     
 }
 if (window.matchMedia('(max-width: 1000px)').matches)
