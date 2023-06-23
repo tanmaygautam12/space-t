@@ -344,6 +344,7 @@ nav{
 }
 .li-item .nav-link{
     letter-spacing: 4px;
+    color: #fff;
 }
 .nav-item .nav-link:visited{
     color: #fff;
