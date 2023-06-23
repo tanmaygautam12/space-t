@@ -34,6 +34,7 @@ nav{
     align-items: center;
     flex-wrap: nowrap;
     width: 9rem;
+    border: 0;
 }
 .nav-item .nav-link:hover{
     border-bottom: 2px solid #b3b3b3;
