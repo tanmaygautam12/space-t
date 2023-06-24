@@ -670,6 +670,7 @@ nav{
         text-align: center;
     }
     .crew-img-div img{
+        margin-top: 0.5rem;
         height: 40vh;
         width: 30vh !important;
         margin-bottom: 3rem;
