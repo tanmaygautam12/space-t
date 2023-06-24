@@ -670,8 +670,8 @@ nav{
         text-align: center;
     }
     .crew-img-div img{
-        height: 55vh;
-        width: 45vh !important;
+        height: 40vh;
+        width: 30vh !important;
         margin-bottom: 3rem;
     }
 }
