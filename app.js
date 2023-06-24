@@ -91,7 +91,7 @@ function engineer(){
     $(".crew-member").text("ANOUSHEH ANSARI");
     function responsive(x) {
         if (x.matches) {
-            $(".crew-img").attr("style","width: 67vh;")
+            $(".crew-img").attr("style","width: 35vh;")
         }
       }
     responsive(x)
